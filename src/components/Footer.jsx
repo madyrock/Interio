@@ -15,18 +15,18 @@ const Footer = () => {
           </div>
           <h3 className="font-bold mb-2">Address</h3>
           <p className="text-sm flex items-center gap-2">
-            <MapPin size={16} /> 3394 Khale Street, Terre Haute, Florence, SC 29501
+            <MapPin size={16} /> Gujrat, India
           </p>
           <h3 className="font-bold mt-4 mb-2">Phone</h3>
           <p className="text-sm flex items-center gap-2">
-            <Phone size={16} /> +1 234 567 890 & 91
+            <Phone size={16} /> +91 88 666 722 42
           </p>
           <p className="text-sm">Mon - Fri: 9.00 AM to 6.00 PM</p>
           <h3 className="font-bold mt-4 mb-2">Email</h3>
           <p className="text-sm flex items-center gap-2">
-            <Mail size={16} /> support@yourdomain.com
+            <Mail size={16} /> mudassirghazi1121@gmail.com
           </p>
-          <p className="text-sm">info@youremail.com</p>
+          <p className="text-sm">info@mudassirghazi1121.com</p>
         </div>
 
         {/* Middle Column - Services */}
