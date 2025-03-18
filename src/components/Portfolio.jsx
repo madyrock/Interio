@@ -5,8 +5,8 @@ const products = [
   { id: 2, name: "Interior Design", img: "https://c4.wallpaperflare.com/wallpaper/550/125/107/picture-modern-living-room-interior-design-wallpaper-preview.jpg", category: 'interior' },
   { id: 3, name: "Decore", img: "https://images5.alphacoders.com/134/1347177.png", category: 'decore' },
   { id: 4, name: "Luxury room", img: "https://static.vecteezy.com/system/resources/thumbnails/036/108/696/small_2x/ai-generated-living-room-interior-design-with-sofa-minimal-aesthetic-3d-rendered-photo.jpg", category: 'interior' },
-  { id: 5, name: "Small Kitchen", img: "https://thumbs.dreamstime.com/b/luxurious-modern-living-room-fireplace-mountain-views-dusk-stylish-features-large-elegant-furnishings-breathtaking-330457459.jpg", category: 'architecture' },
-  { id: 6, name: "Stylist Apartment", img: "https://thumbs.dreamstime.com/b/luxurious-modern-mansion-living-room-fireplace-stunning-mountain-view-dusk-spacious-features-large-elegant-330457652.jpg", category: 'architecture' },
+  { id: 5, name: "Small Kitchen", img: "https://i.pinimg.com/originals/a4/99/5b/a4995b3a6d28c366d366bc96f29e4791.jpg", category: 'architecture' },
+  { id: 6, name: "Stylist Apartment", img: "https://blogpakistan.pk/wp-content/uploads/2021/09/modern-1-1.jpg", category: 'architecture' },
   { id: 7, name: "Guest House", img: "https://www.yankodesign.com/images/design_news/2020/06/all-black-interior-designs-that-will-inspire-you-to-adapt-this-modern-minimal-trend/01-Black-Interior-Design-Inspiration_yankodesign2.jpg", category: 'interior' },
   { id: 8, name : "Art Residence", img: "https://www.yankodesign.com/images/design_news/2020/06/all-black-interior-designs-that-will-inspire-you-to-adapt-this-modern-minimal-trend/05-Black-Interior-Design-Inspiration_Alpine-Cabin_yankodesign.jpg", category: 'decore' },
 ];
